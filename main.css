@@ -81,3 +81,7 @@
     float: left;
     margin-right: 20px;
 }
+
+.my-table, th, td {
+    border: 1px solid #252525;
+}
