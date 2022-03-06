@@ -69,10 +69,9 @@
 }
 
 .my-card{
-    background-color: black;
-    opacity: 90%;
+    margin: 15px 0px;
+    background-color: #252525;
     width: 500px;
-    display: inline;
 }
 
 .avatar {
